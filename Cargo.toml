@@ -1,0 +1,7 @@
+[workspace]
+
+members = [
+	"rtun_common",
+	"rtun_client",
+	"rtun_server",
+]
